@@ -1,0 +1,7 @@
+Project: 
+->Aadhaar/PAN/Mobile 
+Number Validator - Build a form validating Indian mobile numbers, PAN card, and Aadhaar 
+number formats using JavaScript regex.
+
+Pratham Tank - 12502080603015 | IT-A | Batch B
+Mahi Patel - 12502080603022 | IT-A | Batch D
